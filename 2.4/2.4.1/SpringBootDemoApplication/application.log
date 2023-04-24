@@ -1,0 +1,10 @@
+2023-04-22 13:52:13.987  INFO 7017 --- [main] c.e.S.SpringBootDemoApplication          : Starting SpringBootDemoApplication using Java 1.8.0_351 on michaelodhiambo with PID 7017 (/home/michael/Desktop/spring-boot/2.4/2.4.1/SpringBootDemoApplication/target/classes started by michael in /home/michael/Desktop/spring-boot/2.4/2.4.1/SpringBootDemoApplication)
+2023-04-22 13:52:13.992  INFO 7017 --- [main] c.e.S.SpringBootDemoApplication          : No active profile set, falling back to 1 default profile: "default"
+2023-04-22 13:52:15.918  INFO 7017 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2023-04-22 13:52:15.936  INFO 7017 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2023-04-22 13:52:15.937  INFO 7017 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.74]
+2023-04-22 13:52:16.136  INFO 7017 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2023-04-22 13:52:16.136  INFO 7017 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2021 ms
+2023-04-22 13:52:16.947  INFO 7017 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-22 13:52:17.017  INFO 7017 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2023-04-22 13:52:17.047  INFO 7017 --- [main] c.e.S.SpringBootDemoApplication          : Started SpringBootDemoApplication in 3.846 seconds (JVM running for 4.455)
